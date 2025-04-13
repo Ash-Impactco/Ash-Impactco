@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ash-Impactco
 - 👀 I’m interested in carbon space
 - 🌱 I’m currently learning data analytics 
-- 📫 How to reach me ash@impactco@gmail.com
+- 📫 How to reach me ash.impactco@gmail.com
 - ⚡ Fun fact: Intrusive thoughts FTW
 
 <!---
