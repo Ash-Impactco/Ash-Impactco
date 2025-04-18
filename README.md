@@ -14,7 +14,7 @@ From geospatial visualizations to carbon market intelligence — I bring clarity
 - [Europe Climate & Energy Events Map 2025](https://ash-impactco.github.io/Carbon-Analytics/) — 50+ curated events across Europe, mapped and searchable  
 - [Energy System Decoders (Coming Soon)]() — helping people navigate how energy works in the real world  
 
-🧰 Tools I Use: `ArcGIS`, `Python`, `Figma`, `Power BI'
+🧰 Tools I Use: `ArcGIS`, `Python`, `Figma`, `Power BI`
 
 ---
 
